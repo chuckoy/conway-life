@@ -1,5 +1,5 @@
 # conway-life
-Implementation of Conway's game of life.
+Implementation of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 Running from command line:
   `python life.py -size <size> -seed <seed>`
